@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glitchagon
 - 👀 I’m interested in making video games.
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity... ok unity doesn't sound like a good idea anymore after the whole monetization thing, so i'm thinking... Godot?
 - 💞️ I’m looking to collaborate on ...
 - Entering the GMTK Game Jam 
 
