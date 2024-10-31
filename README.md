@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Glitchagon
-- 👀 I’m interested in making video games.
+- I make websites!
 - 🌱 Godot Developer
 - 🍱 I love Bento UI 
 
