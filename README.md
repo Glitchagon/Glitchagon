@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glitchagon
-- I make websites!
+- 🍱CSS Lover
 - 🌱 Godot Developer
-- 🍱 I love Bento UI 
+-  Webdev, writer, and game developer
 
 <!---
 Glitchagon/Glitchagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
