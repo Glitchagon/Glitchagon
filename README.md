@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glitchagon
 - 🍱CSS Lover
-- Creator of glitchfruit
+- Currently learning JS
 - 🌱 Godot Developer
 -  Webdev, writer, and game developer
 
