@@ -1,10 +1,10 @@
-## heyyyyyy :3
+## Hello!
+
+I'm glitchagon, a front-end web developer (HTML/CSS/JS) and game developer (Godot).
+
+My current projects are my very own [portfolio website]([url](https://www.glitchagon.dev/)), 
 
 <!--
-**Glitchagon/Glitchagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
