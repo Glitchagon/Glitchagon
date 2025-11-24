@@ -2,7 +2,7 @@
 
 I'm glitchagon, a front-end web developer (HTML/CSS/JS) and game developer (Godot).
 
-My current projects are my very own [portfolio website]([url](https://www.glitchagon.dev/)), 
+My current projects are my very own [portfolio website](https://www.glitchagon.dev/), 
 
 <!--
 - 🔭 I’m currently working on ...
